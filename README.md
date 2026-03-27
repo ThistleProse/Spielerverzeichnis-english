@@ -1,3 +1,5 @@
+NOTE: This is a simple Google translate, so that my dumb English-only butt can use this Plugin. I cannot provide any support or updates. Please see the primary source for such things <3
+
 # Spielerverzeichnis & Statistiken
 This plugin creates an overview of players and their associated accounts—a so-called "Who's Who" list. In addition to this list, there are personal player statistics and character statistics. These statistics pages display a wide variety of information and statistical values ​​for the player or character.<br>
 In addition to the pre-made statistics and charts, you can also create your own statistics for the player statistics page in the ACP. For example, you can create statistics on how many male, female, or non-binary characters a user has. More detailed information about the settings, options, and custom statistics can be found in the [Wiki](https://github.com/little-evil-genius/Spielerverzeichnis/wiki).<br>
